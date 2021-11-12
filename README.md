@@ -2,9 +2,9 @@
 An application consisting 3 parts that are Currency, Calculator and MHR ( Maximum Heart Rate)
 
 
-![Screen Shot 2021-11-12 at 22 06 54](https://user-images.githubusercontent.com/73760138/141523111-d0cc0872-1dfb-44fa-ad77-c38d07c109b8.png)
+![Screen Shot 2021-11-12 at 22 06 54](https://user-images.githubusercontent.com/73760138/141523111-d0cc0872-1dfb-44fa-ad77-c38d07c109b8.png) ![Screen Shot 2021-11-12 at 22 09 59](https://user-images.githubusercontent.com/73760138/141523154-505b0afe-c303-4208-8ea3-25c40af080ef.png)
 
-![Screen Shot 2021-11-12 at 22 09 59](https://user-images.githubusercontent.com/73760138/141523154-505b0afe-c303-4208-8ea3-25c40af080ef.png)
+
 
 ![Screen Shot 2021-11-12 at 22 09 19](https://user-images.githubusercontent.com/73760138/141523169-1e8f5f45-3d5c-4b98-a205-280b9486f10c.png)
 ![Screen Shot 2021-11-12 at 22 09 35](https://user-images.githubusercontent.com/73760138/141523174-79e26041-f551-41ce-b2fe-cc1278c1b1cd.png)
